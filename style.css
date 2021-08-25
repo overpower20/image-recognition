@@ -1,0 +1,24 @@
+body
+{
+  background-color: aquamarine;
+  color: blue;
+}
+.heading
+{
+    width: 80%;
+    font-size: 29px;
+}
+#cam
+{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed green;
+}
+.centirio
+{
+    color: indigo;
+}
+#result_object_name,#result_object_accuracy
+{
+    color: maroon;
+}
